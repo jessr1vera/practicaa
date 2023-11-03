@@ -1,0 +1,1039 @@
+			 <html xmlns:v="urn:schemas-microsoft-com:vml"
+			xmlns:o="urn:schemas-microsoft-com:office:office"
+			xmlns:w="urn:schemas-microsoft-com:office:word"
+			xmlns="http://www.w3.org/TR/REC-html40">
+			
+			<head>
+			<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+			<meta name=ProgId content=Word.Document>
+			<meta name=Generator content="Microsoft Word 9">
+			<meta name=Originator content="Microsoft Word 9">
+			<!--[if !mso]>
+			<style>
+			v\:* {behavior:url(#default#VML);}
+			o\:* {behavior:url(#default#VML);}
+			w\:* {behavior:url(#default#VML);}
+			.shape {behavior:url(#default#VML);}
+			</style>
+			<![endif]-->
+			<title></title>
+			<!--[if gte mso 9]><xml>
+			 <w:WordDocument>
+			  <w:View>Print</w:View>
+			  <w:DoNotHyphenateCaps/>
+			  <w:PunctuationKerning/>
+			  <w:DrawingGridHorizontalSpacing>9.35 pt</w:DrawingGridHorizontalSpacing>
+			  <w:DrawingGridVerticalSpacing>9.35 pt</w:DrawingGridVerticalSpacing>
+			 </w:WordDocument>
+			</xml><![endif]-->
+			<style>
+			<!--
+			 /* Font Definitions */
+			@font-face
+				{font-family:Verdana;
+				panose-1:2 11 6 4 3 5 4 4 2 4;
+				mso-font-charset:0;
+				mso-generic-font-family:swiss;
+				mso-font-pitch:variable;
+				mso-font-signature:536871559 0 0 0 415 0;}
+			 /* Style Definitions */
+			p.MsoNormal, li.MsoNormal, div.MsoNormal
+				{mso-style-parent:"";
+				margin:0in;
+				margin-bottom:.0001pt;
+				mso-pagination:widow-orphan;
+				font-size:7.5pt;
+			        mso-bidi-font-size:8.0pt;
+				font-family:"Verdana";
+				mso-fareast-font-family:"Verdana";}
+			p.small
+				{mso-style-parent:"";
+				margin:0in;
+				margin-bottom:.0001pt;
+				mso-pagination:widow-orphan;
+				font-size:1.0pt;
+			        mso-bidi-font-size:1.0pt;
+				font-family:"Verdana";
+				mso-fareast-font-family:"Verdana";}
+			@page Section1
+				{size:8.5in 11.0in;
+				margin:1.0in 1.25in 1.0in 1.25in;
+				mso-header-margin:.5in;
+				mso-footer-margin:.5in;
+				mso-paper-source:0;}
+			div.Section1
+				{page:Section1;}
+			-->
+			</style>
+			<!--[if gte mso 9]><xml>
+			 <o:shapedefaults v:ext="edit" spidmax="1032">
+			  <o:colormenu v:ext="edit" strokecolor="none"/>
+			 </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+			 <o:shapelayout v:ext="edit">
+			  <o:idmap v:ext="edit" data="1"/>
+			 </o:shapelayout></xml><![endif]-->
+			 
+			</head>
+			<body><p>&lt;html&gt;</p>
+<p><hl></p>
+<p>MI NOMBRE ES JESSICA RIVERA FLORIANO<br></h1></p>
+<p><h2> ESTA ES MI PRUEBA DE UN HTML BASICO</p>
+<p>&lt;/html&gt;</p></body></html><!DOCTYPE html><html lang="es">
+<head>
+<meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Editor de texto online</title>
+<meta property="og:image" content="https://www.prepostseo.com/imgs/social-imgs/es-online-text-editor.png?v=1.0" />
+<meta name="Robots" content="INDEX, FOLLOW">
+<meta name="Publisher" content="PrePost SEO"><meta name="Revisit-After" content="7 Days"><meta name="Rating" content="General">
+
+<link rel="dns-prefetch" href="https://ajax.googleapis.com">
+<link rel="dns-prefetch" href='https://apis.google.com'>
+<link rel="dns-prefetch" href='https://www.gstatic.com'>
+<link rel="dns-prefetch" href='https://fonts.googleapis.com'>
+<link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link href="https://www.prepostseo.com/imgs/icon-2.png" rel="icon" type="image/x-icon" />
+<link href="https://www.prepostseo.com/assets/pps-frontend/lib/theme.css?v=5.8.0.9.43" rel="stylesheet">
+<script src="https://www.prepostseo.com/assets/lib/js/jquery-3.6.0.min.js"></script>
+ 
+
+<link rel="canonical" href="https://www.prepostseo.com/tool/es/online-text-editor" /><link rel="alternate" hreflang="x-default" href="https://www.prepostseo.com/tool/online-text-editor" /><link rel="alternate" hreflang="en" href="https://www.prepostseo.com/tool/online-text-editor" /><link rel="alternate" hreflang="es" href="https://www.prepostseo.com/tool/es/online-text-editor" /><script type="text/javascript">
+let is_mobile = (w) => window.matchMedia("(max-width: "+w+"px)").matches;
+window.addEventListener("resize", function() {is_mobile = (w) => window.matchMedia("(max-width: "+w+"px)").matches});
+function docReady(fn){"complete"===document.readyState||"interactive"===document.readyState?setTimeout(fn,1):document.addEventListener("DOMContentLoaded",fn)}
+var base_url = "https://www.prepostseo.com/";
+var tool_name = "editor de texto";
+var adblocker = 0;
+var tool_title = "editor de texto";
+
+</script>
+
+<style>
+
+
+:root{
+  --ppsbox-success-color: #3ACD99;
+  --ppsbox-danger-color: #FF3535;
+  --ppsbox-warning-color: #FFD341;
+  --chat-logo: url(https://www.prepostseo.com/imgs/chat-icon.png);
+}
+.chat-logo {
+	text-decoration: none !important;
+	color:#fff!important;background:-o-linear-gradient(90deg,#37cc99 ,#1eaea9)!important;background:linear-gradient(90deg,#37cc99 ,#1eaea9)!important;display:-webkit-inline-box!important;display:-ms-inline-flexbox!important;display:inline-flex!important;-webkit-box-align:center;-ms-flex-align:center;align-items:center;gap:5px
+}
+@media (max-width:768px) {
+.chat-btn{display: none!important}
+.chat-logo {margin: 0 auto}
+.top-hBtn-sm {
+	padding: 9px 10px !important;
+	margin: 8px 10px 0 0 !important;
+	border-radius: 4px;
+	height: 34px !important;
+	display:block !important
+}
+.navbar-collapse{position:relative;background:#fff;z-index:2;box-shadow: inset -2px -2px 5px 1px #ddd}}
+.d-inline-block{display:inline-block}.d-block{display:block}
+.pps-spr{background:#f5f5f5}.cursor-p{cursor:pointer}
+.o-hidden{overflow:hidden}.o-auto{overflow:auto}
+.position-a{position:absolute}.position-f{position:fixed}.position-r{position:relative}
+.w100{width:100%}.h100{height:100%}
+.d-flex{display:-webkit-box;display:-ms-flexbox;display:flex}
+.flex-center{-webkit-box-align: center;-ms-flex-align: center;align-items: center;}
+.row-wrap{display: -ms-flexbox;display: -webkit-box;display: flex;-ms-flex-wrap: wrap;flex-wrap: wrap;clear: both} 
+.col-xs-auto,.col-auto {-ms-flex: 0 0 auto;-webkit-box-flex: 0;flex: 0 0 auto;width: auto;max-width: 100%}
+.justify-content-center {-ms-flex-pack: center!important;-webkit-box-pack: center!important;justify-content: center!important}
+.justify-content-between {-webkit-box-pack: justify;-ms-flex-pack: justify;justify-content: space-between;}
+.justify-content-evenly{ -webkit-box-pack: space-evenly; -ms-flex-pack: space-evenly; justify-content: space-evenly}
+.align-self-center {-ms-flex-item-align: center!important;-ms-grid-row-align: center!important;align-self: center!important}
+.align-self-end {-webkit-box-align: end;-ms-flex-align: end;align-items: end}
+.align-self-start {  -webkit-box-align: start;  -ms-flex-item-align: start;    align-self: flex-start;}
+.flex-reverse{-webkit-box-orient: vertical;-webkit-box-direction: reverse;-ms-flex-direction: column-reverse;flex-direction: column-reverse;display: -webkit-box;display: -ms-flexbox;display: flex}
+.shadowBox #checkBtn:last-child,.shadowBox .btn.btn-lg.btn-success:last-child,.shadowBox .btn.btn-lg.btn-success.active:last-child{ margin-right: 10px;}
+.shadowBox #checkBtn.btn.btn-danger.btn-lg{box-shadow: 3px 3px 0px 0px #ac2925} 
+div.text-uppercase.text-muted,span.text-uppercase.text-muted{display:none}
+@media (max-width:767px) {
+.flex-reverse-sm{-webkit-box-orient: vertical;-webkit-box-direction: reverse;-ms-flex-direction: column-reverse;flex-direction: column-reverse;display: -webkit-box;display: -ms-flexbox;display: flex}
+}
+@media (max-width:768px) {
+.shadowBox #checkBtn,.shadowBox .btn.tool_btn_submit,.shadowBox .btn.btn-lg.btn-success,
+.shadowBox .btn.btn-lg.btn-success.active{min-width: 180px; padding: 11px 15px}
+.p-sm-0{padding:0!important}
+}
+@media (max-width:576px) {.col-auto {width: 100%;padding: 0 15px}.hide-xs{display:none}}
+@media (max-width:452px) {
+.shadowBox #checkBtn,.shadowBox .btn.tool_btn_submit,.shadowBox .btn.btn-lg.btn-success,
+.shadowBox .btn.btn-lg.btn-success.active{min-width: auto; padding: 10px;  }
+}
+@media (max-width:360px) {
+.shadowBox #checkBtn,.shadowBox .btn.tool_btn_submit,.shadowBox .btn.btn-lg.btn-success,
+.shadowBox .btn.btn-lg.btn-success.active{ font-size: 16px;}
+}
+@media (max-width:1200px) { 
+.navbar-collapse.collapse{width:auto !important}
+}
+@media (max-width:992px) { 
+.navbar-collapse.collapse{width:100% !important}
+}
+.btn.active, .btn:active{box-shadow: 0 3px 5px rgb(0 0 0 / 13%)}
+.g-recaptcha{
+-ms-transform: scale(0.85);transform: scale(0.85);-webkit-transform: scale(0.85);
+width:304px !important;height:78px !important;margin: 0 auto;
+}
+.mb-2{margin-bottom:.5rem!important}
+.m-auto,.my-0{margin:0 auto}
+.bdr{border:1px solid #eee}
+.g-recaptcha-wrap{position: relative;align-self: center;text-align:center}
+.g-recaptcha-wrap .rid-captcha-free{position: absolute;font-size: 12px;width: 234.08px;transform: translate(-50% , -10px)}
+#floorad-wrapper{background:#f2f7f9!important;width:100%;bottom:0;position:fixed;box-shadow: 0 0 4px rgba(0, 0, 0, 0.8);text-align: center;padding-top:4px;z-index:6000;
+	
+}
+#close-floorad-btn{color:#000!important;display:inline-block;height:18px;padding:2px;background:#fff;cursor:pointer;float:right;box-shadow: 0 0 4px rgba(0, 0, 0, 0.8);border-radius: 8px 0 0 0;margin-top: -28px;}
+
+.sidebarR{margin: 20px 0}
+.top-hBtn-sm{display:none}
+.top-hBtn-sm,.top-hBtn{height:40px;padding: 6px;border-left:1px solid #eee}
+.top-hBtn-sm a,.top-hBtn a{padding: 6px !important;color: #fff !important;border-radius: 4px!important;border-left: none !important}
+.ad-free-btn-top{background: linear-gradient(256deg, #3971b0, #49aad7)}
+.ad-free-btn-top:hover{background: linear-gradient(45deg, #49aad7, #3971b0)!important;color: #fff !important;}
+.premium-plns-btn{width: fit-content !important;margin: 0 auto;background: linear-gradient(45deg, #3acd99, #00b698)!important;color: #fff !important}
+.premium-plns-btn:hover{background: linear-gradient(45deg, #3acd99, #00b698)!important;color: #fff !important;}
+.shine-box {position: relative;overflow: hidden}
+.shine-box:before {position: absolute;top: 0;left: -500px; width: 120px;
+height: 500px; background: rgba(255, 255, 255, 0.6)}
+@-webkit-keyframes shine {from {left: -500px;}to {left: 655px;}}
+@keyframes shine {from {left: -500px;}to {left: 655px;}}
+.shine-box-before-avtive::before{content: "";-webkit-transform: skew(-50deg);-ms-transform: skew(-50deg); transform: skew(-50deg); -webkit-animation: shine 3s ease infinite; animation: shine 3s ease infinite}
+.screen-reader-text {border: 0;clip: rect(1px,1px,1px,1px);-webkit-clip-path: inset(50%);clip-path: inset(50%);height: 1px;margin: -1px;overflow: hidden;padding: 0;position: absolute;width: 1px;word-wrap: normal!important}
+</style><style>
+    .g-recaptcha {margin: 0px auto !important;}
+    .captcha-heading{font-size: 19px;padding: 9px;color:#000000;text-transform:capitalize;font-weight: 500;border-radius: 20px}
+    .captcha-model{background:rgba(0,0,0,.4);display:none;height:100%;position:fixed;text-align:center;top:0;left:0;width:100%;z-index:10000}
+    .captcha-model .helper-span{display:inline-block;height:100%;vertical-align:middle}
+    .captcha-model > div{background-color:#fff;-webkit-box-shadow:10px 10px 60px #555;box-shadow:10px 10px 60px #555;display:inline-block;padding: 0px !important;
+    height: auto;max-height: 100%;max-width: 360px;min-width: 300px;
+    vertical-align:middle;width:50%;position:relative;border-radius:20px;padding:0 0 40px}
+    .captcha-footer{margin: 12px}
+</style>
+</head>
+<body class="">
+<div class="fw">
+    <div class="model-bg position-f w100k h100k d-none"></div>
+<div class="model-box bg-white m-auto position-f noP o-hidden d-none h-auto">
+<span class="model-heading bg-white w100k d-block black text-left p-3"></span>
+<div class="model-body d-block text16 w100k p10px"></div><div class="line"></div><span class="close-model position-a text18 font700 cursor-p">X</span>
+<div class="model-footer d-block text-white text-center w100k">Si necesita ayuda, por favor 
+<a class="text-white text-underline" href="https://www.prepostseo.com/contact" target="_blank">Contáctenos</a>
+</div>
+</div>
+<script>
+docReady(function(e) {
+	$(".model-bg").click(function(){$(".model-box").hide();$(this).fadeOut(800);});
+	$(".close-model").click(function(){$(".model-box").hide();$(".model-bg").fadeOut(800);});
+});
+function showModel(title, data){$(".model-heading").html(title);$(".model-body").html(data);$(".model-box").fadeIn(500);$(".model-bg").show();}
+</script>	
+	<header class="bg-white mb-2">
+    
+
+
+<div class="container-fluid top-bar clear" style="position:relative;">
+  <!-- <div class="container top-bar noP clear"> -->
+    <div class="col-lg-8 col-xs-12 noP">
+      <nav class="navbar nav navbar-default bg-none bdr-none bdr-none line-h-normal mb-0 position-r" role="navigation">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <a href="https://www.prepostseo.com/"><img id="main-logo" src="https://www.prepostseo.com/imgs/prepostseo.png?v=1" alt="PrePost SEO" width="133.8" height="36" class="pull-left logo"></a>
+          <button type="button" role="button" class="navbar-toggle collapsed position-r float-right bg-transparent" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="screen-reader-text">Toggle navigation</span>
+            <span class="icon-bar d-block"></span>
+            <span class="icon-bar d-block"></span>
+            <span class="icon-bar d-block"></span>
+          </button>
+                  </div>
+                 
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="navbar-collapse collapse noP " id="bs-example-navbar-collapse-1" role="navigation" aria-expanded="false">
+          <ul class="nav navbar-nav">
+            
+            
+              <li class="nav-menu"><a href="https://www.prepostseo.com/es/plagiarism-checker">Comprobador de plagio</a></li><li class="nav-menu"><a href="https://www.prepostseo.com/domain-authority-checker">DA Checker</a></li><li class="nav-menu"><a href="https://www.prepostseo.com/es/paraphrasing-tool">Herramienta de paráfrasis</a></li><li class="nav-menu"><a href="https://www.prepostseo.com/tool/es/text-summarizer">Resumen</a></li>                          
+                        <li class="nav-menu top-hBtn"><a class="shine-box premium-plns-btn" href="https://www.prepostseo.com/plans"><svg xmlns="http://www.w3.org/2000/svg" width="17.822" height="13.747" viewBox="0 0 17.822 13.747"><path d="M1.088,9.835c-.106-.682-.209-1.341-.31-2C.523,6.178.271,4.521.013,2.865A.611.611,0,0,1,.268,2.2a.6.6,0,0,1,.723.065Q2.6,3.466,4.2,4.67a.832.832,0,0,0,1.35-.228Q6.9,2.419,8.247.4A.748.748,0,0,1,9.409.2a1.4,1.4,0,0,1,.206.261q1.325,1.983,2.647,3.968a.838.838,0,0,0,1.376.229c1.054-.791,2.106-1.585,3.166-2.369a.869.869,0,0,1,.435-.171.574.574,0,0,1,.574.713q-.236,1.522-.47,3.044c-.192,1.247-.389,2.493-.572,3.741-.027.181-.09.225-.267.225q-5.989-.008-11.979,0H1.088Z" transform="translate(0 0)" fill="#fd0"/><path d="M37.486,224.736c0,.638.022,1.263-.008,1.885a.773.773,0,0,1-.778.707c-.056,0-.111,0-.167,0H22.811a.845.845,0,0,1-.964-.968q0-.789,0-1.578a.184.184,0,0,1,.018-.046Z" transform="translate(-20.763 -213.582)" fill="#fd0"/></svg>&nbsp;Hazte premium</a></li>
+                                    <li class="nav-menu hidden-lg hidden-md hidden-sm"><a href="https://www.prepostseo.com/contact"><i class="fa fa-phone"></i> Contáctenos</a></li>
+            <li class="nav-menu d-flex hidden-lg hidden-md hidden-sm"> 
+                        <a href="javascript:void(0)" class="chat-logo pull-right d-inline-block cursor-p logregBtn" onclick="Tawk_API.toggle()">
+            <img src="https://www.prepostseo.com/imgs/chat-icon.png" alt="chat">Chat Online</a>
+                        </li>
+         
+          </ul>  
+          
+                   
+        </div><!-- /.navbar-collapse -->
+      </nav>
+    </div>  
+     
+    <div class="pull-right col-lg-4 col-sm-12 text-right" style="padding:0;" id="searchSec" >
+        <span role="button" aria-label="darkmode" onclick="toggleDarkMode(this)" class="logregBtn text-white float-right border-dark" style="min-height:28px;min-width:31px">
+          <i class="fa fa-moon-o" style="width:12px;height:14px"></i>
+        </span>
+                <a href="https://www.prepostseo.com/register" class="logregBtn text-white float-right border-dark">Registro</a>
+        <a href="https://www.prepostseo.com/login" class="logregBtn text-white float-right border-dark">Acceso</a>
+                          <a href="javascript:void(0)" class="chat-logo chat-btn pull-right d-inline-block cursor-p logregBtn" onclick="Tawk_API.toggle()"><img src="https://www.prepostseo.com/imgs/chat-icon.png" alt="chat">Chat Online</a>
+                <i class="fa fa-search pull-right topsearch d-inline-block cursor-p"></i>
+    </div>	
+      <!-- </div> -->
+	
+	<div class="sbNew">
+    	<div class="container">
+        	<div class="col-md-12 noP">
+            	<div class="col-md-8 col-md-offset-2 noP sbNewinner" id="h_top_search">
+                	<input class="inputSN" id="inputSN" type="search" />
+                    <span class="cross" id="crossNS">X</span>
+                    <div class="search-results bg-white o-auto position-a w100" style="display:none;">
+                      <div class="withlangSearch"></div>
+                      <div class="withoutlangSearch"></div>
+                      <div class="noresult d-block text18 text-center"></div>
+                    </div>
+              </div>
+          </div>
+      </div>
+  </div>
+
+</div>
+
+<div style="clear:both;"></div>
+<script>
+  docReady(function(e) {
+      $(".navbar-toggle").click(function(){
+        $("#bs-example-navbar-collapse-1").toggleClass("collapse");
+      });
+  });
+</script>
+    </header>
+    	
+
+        
+       
+   <!-- adngin-top_leaderboard-0  -->
+   <div class="text-center pps-spr pps-spr-lumba-daba pps-spr-after-heading" style="display:flex;align-items:center;height:100px;margin:15px auto 5px !important;flex-flow: column;justify-content: center;position:relative">
+   <span style="font-size:12px;display: block;position: absolute;top: -10px;font-family:system-ui" >ANUNCIO PUBLICITARIO</span>
+   <!-- Ezoic - top_of_page -->
+   <div id="ezoic-pub-ad-placeholder-101"> 
+   <div id="adngin-top_leaderboard-0"></div>
+   </div><!-- End Ezoic - top_of_page -->
+        </div>
+               <style type="text/css">
+    @media only screen and (max-width: 640px) {
+        .mce-btn button{
+            font-size: 11px;
+        }
+        #mceu_25{
+            overflow: hidden;
+        }
+    }
+    .text-sec{
+        padding: 0;
+    }
+    span.rBtns{
+        border:1px solid #3c5057;
+    }
+    #div-to-expand.fullscreen
+    {
+        z-index: 9999;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+    }
+    .fullscreen #textbox_ifr {
+        height: 78% !important;
+        overflow: auto;
+    }
+    .expandBtn
+    {
+        text-align: right;
+        padding-right: 7px;
+        position: absolute;
+        top: 42px;
+        z-index: 999;
+        right: 14px;
+        opacity: 0.5;
+        cursor: pointer;
+    }
+    .expandBtn:hover
+    {
+        opacity: 1;
+    }
+    #textbox_ifr {
+        padding-right: 11px;
+    }
+    @media screen and (max-width:426px){.expandBtn{display: none!important;top: 116px !important;}}@media screen and (max-width:991px) and (min-width:426px){.expandBtn{top: 42px !important;}}
+</style>
+<!-- Main Site -->
+
+<div class="container-fluid">
+    <div class="container noP">
+        <div class="leftcol">
+            <div class="col-md-12 shadowBox">
+                <h1 class="h_tool">Editora de texto en línea</h1>
+                <p class="text16 text-center">para usar este Editor de texto en línea escriba en el editor de texto sin formato a continuación.                </p>
+                                <!-- Content Section -->
+
+
+                <div class="col-xs-12 form">
+                    <div id="div-to-expand" class="text-sec">
+                        <div class="col-md-12 p-0">
+                            <form action="" method="post" enctype="multipart/form-data" id="form" target="_blank">
+                                <div class="cs-editor">
+                                    <div class="expandBtn" onclick="expandfullscreen(this)">
+                                        <img src="https://www.prepostseo.com/imgs/full-screen.svg?v=1.1" width="17">
+                                    </div>
+                                    <textarea class="form-control w-textbox" id="textbox" name="textbox" required="required" rows="10" placeholder="Start typing here..."></textarea>
+                                    <input type="hidden" name="saveas" id="saveas" value="word">
+                                </div>
+                                <br>
+                                <input name="save_type" value="pdf" type="hidden" id="sv_type"/>
+                                <input name="tool_submit" value="1" type="hidden"/>
+                                <div class="text-center row-wrap justify-content-center">
+                                    <button type="button" class="col-xs-auto my-2 rBtns btn-success text-white"  onClick="saveAsPdf()">Guardar como pdf</button>
+                                    <button type="button" class="col-xs-auto my-2 rBtns btn-success text-white" onClick="saveAsDoc()">Guardar como DOC</button>
+                                    <button type="button" class="col-xs-auto my-2 rBtns btn-success text-white" onClick="checkPlag()">Check Plagiarism</button>
+                                    <button type="button" class="col-xs-auto my-2 rBtns btn-success text-white" onClick="checkGrammar()">Check Grammar</button>
+                                    <button type="button" class="col-xs-auto my-2 rBtns btn-success text-white" onClick="checkParaphrase()">Paraphrase It</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <form action="https://www.prepostseo.com/plagiarism-checker" method="post" target="_blank" id="PlagForm">
+                <textarea style="resize:none; display:none;" class="rContent" name="unique-content-data"></textarea>
+            </form>
+            <form action="https://www.prepostseo.com/grammar-checker" method="post" target="_blank" id="grammarForm">
+                <textarea style="resize:none; display:none;" class="rContent" name="remoteData"></textarea>
+            </form>
+            <form action="https://www.prepostseo.com/paraphrasing-tool" target="_blank" method="post" id="paraphraseForm" style="display:none;" >
+                <textarea class="rContent" id="paraphraseData" name="innerText"></textarea>
+            </form>
+
+            <div class="col-xs-12 text-center pps-spr pps-spr-lumba-daba pps-spr-after-button p-sm-0" id="after_button_ad_desktop" style="min-height:250px;min-width:300px">
+<span style="font-size:12px;display: block;" >ANUNCIO PUBLICITARIO</span>
+
+
+	<!-- Ezoic - After Button 1 - mid_content -->
+	<div id="ezoic-pub-ad-placeholder-105"> 
+			<div id="adngin-incontent_after_button-0"></div>
+	
+	</div><!-- End Ezoic - After Button 1 - mid_content -->
+	
+
+</div>
+            <div class="container-fluid normal-section">
+                <div class="col-lg-12 noP tool-content">
+                    <div class="col-md-12 bdr">
+                        <style>
+.fedbak-body-err{color: #666;vertical-align: super;font-size: 12px;padding-left: 2px}
+#improveerrorp{color: #f00;margin-left: 5px;font-size: small}
+.toc_container .shareit{text-align: center;padding-top: 0px!important;}
+.toc_container {width:100%}
+</style>
+<div class="row ">
+    <div class="col-sm-6">
+        <div class='toc_container'><p class='toc_title'>Table of Contents:</p><ul class='toc_list'><li class="d-block pb-1"><a href="#editora-de-texto-en-l-nea">Editora de texto en l&iacute;nea</a></li><li class="d-block pb-1"><a href="#editor-de-texto-sin-formato-no-se-necesita-instalaci-n">Editor de texto sin formato: no se necesita instalaci&oacute;n</a></li><li class="d-block pb-1"><a href="#c-mo-puedes-editar-texto-usando-wordpad-en-l-nea">&iquest;C&oacute;mo puedes editar texto usando Wordpad en l&iacute;nea?</a></li><li class="d-block pb-1"><a href="#editor-de-texto-en-l-nea-gratuito-sin-limitaciones-de-acceso">Editor de texto en l&iacute;nea gratuito sin limitaciones de acceso</a></li><li class="d-block pb-1"><a href="#edici-n-efectiva-sin-errores-en-muy-poco-tiempo">Edici&oacute;n efectiva sin errores en muy poco tiempo</a></li></ul></div>    </div>
+    <div class="col-sm-6">
+        <form>
+        <div class="toc_container improveContainer o-hidden w100k">
+            <p class="toc_title font700">¿Es útil esta herramienta?</p>
+            
+                <div class="dhide form-group mb-0">
+                                        <input type="hidden" id="toolMode" value="">
+                    <label><input type="radio" name="helpful" value="Yes" checked/>&nbsp;Si</label> &nbsp;
+                    <label><input type="radio" name="helpful" value="No"/>&nbsp;no</label> &nbsp;
+                    <label><input type="radio" name="helpful" value="Maybe"/>&nbsp;talvez</label> &nbsp;
+                </div>
+                <div class="dhide form-group">
+                    <label class="light" for="improveBody">¿Cómo podemos mejorarlo?</label>
+                    <textarea class="form-control" name="improvements" id="improveBody"></textarea>
+                    <small class="fedbak-body-err">Minimum characters limit 10</small>
+                </div>
+                <div class="form-group" style="display: none;" id="emailDiv">
+                    <p>Ingrese el correo electrónico para obtener una respuesta?</p>
+                    <input type="email" name="user_email" class="form-control" id="user_email" value="" placeholder="Enter your email address" >
+                </div>
+                <button class="g-recaptcha" id="improve-captcha" data-sitekey="6LeD2RIcAAAAAPOwbZbhQzkTqoKWTvRqlL3hMM8r" style="display:none;" data-callback="onSubmitImprove"></button>
+                <button type="button" class="btn btn-success mx-10x" id="improveTool">Entregar;</button>
+                <span id="improveerrorp"></span>
+             
+        </div>
+        </form>
+    </div>
+</div>
+<h2 style="text-align:center" id="editora-de-texto-en-l-nea">Editora de texto en l&iacute;nea</h2>    <hr />  <p>Incluso los mejores env&iacute;os de contenido se rechazan si tienen problemas gramaticales. Los estudiantes enfrentan tales problemas regularmente cuando est&aacute;n trabajando en ensayos y otras tareas de investigaci&oacute;n. Tenga en cuenta que debe enviar un trabajo de investigaci&oacute;n sobre gesti&oacute;n &aacute;gil de proyectos. Al escribir un trabajo de investigaci&oacute;n, uno debe enfocarse en dos secciones principales. Uno est&aacute; llevando a cabo una investigaci&oacute;n completa para que todos los puntos mencionados en el alcance est&eacute;n cubiertos adecuadamente. Los trabajos de investigaci&oacute;n son rechazados si hay redundancia de contenido. El segundo requisito importante es la presentaci&oacute;n de contenido gramaticalmente correcto. Leer cada l&iacute;nea del trabajo de investigaci&oacute;n ser&iacute;a una tarea muy dif&iacute;cil para los estudiantes. Antes de la presentaci&oacute;n, cada l&iacute;nea tendr&iacute;a que leer para corregir los errores. En t&eacute;rminos de tiempo, este es un proceso muy agotador que se puede evitar f&aacute;cilmente. Con este editor de texto en l&iacute;nea, puede realizar un env&iacute;o de contenido sin errores.</p>    <hr />  <h2 id="editor-de-texto-sin-formato-no-se-necesita-instalaci-n">Editor de texto sin formato: no se necesita instalaci&oacute;n</h2>    <p>Instalar un editor de texto plano tambi&eacute;n es una gran molestia. Antes de nada, debe verificar la compatibilidad de la computadora port&aacute;til, tableta o tel&eacute;fono inteligente en el que debe realizarse la instalaci&oacute;n. Cuando est&eacute; seguro de que el editor funcionar&iacute;a en la m&aacute;quina seleccionada, puede continuar con la instalaci&oacute;n. Si desea utilizar el editor en varios dispositivos, debe realizar una instalaci&oacute;n individual en cada uno de ellos. Por ejemplo, los estudiantes tambi&eacute;n tienen herramientas de edici&oacute;n de texto en sus tabletas y tel&eacute;fonos inteligentes. Esto les da la opci&oacute;n de realizar tareas de edici&oacute;n mientras est&aacute;n en movimiento. Por ejemplo, cuando un estudiante viaja y de repente recuerda que una tarea debe ser editada, la forma m&aacute;s f&aacute;cil ser&iacute;a usar este editor en l&iacute;nea.</p>    <ul>  	<li>No se necesitan instalaciones ni descargas engorrosas para utilizar esta herramienta. Si su dispositivo tiene conectividad de red, esta herramienta se puede usar f&aacute;cilmente. No hay necesidad de revisar ning&uacute;n archivo de configuraci&oacute;n.</li>  </ul>    <hr />  <h2 id="c-mo-puedes-editar-texto-usando-wordpad-en-l-nea">&iquest;C&oacute;mo puedes editar texto usando Wordpad en l&iacute;nea?</h2>    <p>La interfaz de usuario de Wordpad en l&iacute;nea es incre&iacute;blemente f&aacute;cil. Ya sea que sea un estudiante, un profesional que trabaja, un maestro o cualquier otro usuario que desee editar contenido, esta herramienta funcionar&iacute;a perfectamente para usted. Perm&iacute;tanos seguir los pasos que necesita completar para obtener una mejor comprensi&oacute;n.</p>    <ol>  	<li>  	<h3>Subir / pegar contenido</h3>  	</li>  </ol>    <p>Hay una secci&oacute;n en la que debe pegar el contenido requerido o escribirlo desde el principio. La herramienta tiene una lista de opciones de escritura / edici&oacute;n de calidad y puede modificar un documento de principio a fin. Por ejemplo, tambi&eacute;n hay una opci&oacute;n para insertar una tabla. A veces, los profesionales corporativos tienen que insertar tablas en el &uacute;ltimo minuto antes de la presentaci&oacute;n.</p>    <ul>  	<li>Considere que usted es un profesional de finanzas y su jefe le dice que inserte el informe de auditor&iacute;a actualizado de la empresa. Esto es cuando necesitar&iacute;a insertar una tabla con los detalles requeridos. Con este editor de texto en l&iacute;nea, puede realizar todas esas opciones con facilidad. No es necesario descargar herramientas de edici&oacute;n rigurosas y usarlas para finalizar el contenido.</li>  </ul>    <ol start="2">  	<li>  	<h3>Opciones de guardado para las usuarias</h3>  	</li>  </ol>    <p>Si ha creado un documento desde el principio utilizando esta herramienta en l&iacute;nea o necesita finalizar uno existente, puede guardarlo con dos formatos. Despu&eacute;s de completar las tareas de edici&oacute;n, haga clic en la opci&oacute;n &quot;guardar como palabra&quot; o &quot;guardar como PDF&quot; seg&uacute;n sus necesidades. Por ejemplo, los estudiantes en su mayor&iacute;a tienen que presentar sus tareas y ensayos en formato Word. Del mismo modo, un profesional de finanzas har&iacute;a una presentaci&oacute;n en formato PDF.</p>    <hr />  <h2 id="editor-de-texto-en-l-nea-gratuito-sin-limitaciones-de-acceso">Editor de texto en l&iacute;nea gratuito sin limitaciones de acceso</h2>    <p>Lo mejor de las herramientas en l&iacute;nea es que no tienen restricciones de uso basadas en dispositivos. Cuando utiliza herramientas sin conexi&oacute;n, solo se pueden usar despu&eacute;s de que la instalaci&oacute;n se haya realizado correctamente en un dispositivo. Si desea utilizar la herramienta en tres dispositivos simult&aacute;neamente, la instalaci&oacute;n se realizar&aacute; en cada uno de ellos. Este editor de texto en l&iacute;nea no depende de las instalaciones de ninguna manera. Se puede acceder f&aacute;cilmente en m&uacute;ltiples dispositivos con conectividad a Internet sin ning&uacute;n paso de instalaci&oacute;n.</p>    <ul>  	<li>A veces, uno tiene que realizar tareas de edici&oacute;n para m&uacute;ltiples documentos. Tenga en cuenta que est&aacute; trabajando en un trabajo de investigaci&oacute;n detallado y que todas las secciones deben editarse individualmente. Teniendo en cuenta este requisito, necesita una herramienta que sea gratuita y se pueda usar tantas veces como sea necesario. Este editor de texto plano es una herramienta gratuita y el usuario no tiene que enfrentar limitaciones. Se recomienda para estudiantes, profesionales corporativos, personal de marketing y otros tipos de usuarios.</li>  </ul>    <hr />  <h2 id="edici-n-efectiva-sin-errores-en-muy-poco-tiempo">Edici&oacute;n efectiva sin errores en muy poco tiempo</h2>    <p>No hay espacio para errores en el env&iacute;o de contenido. Si usted es un profesional de recursos humanos y presenta una descripci&oacute;n del trabajo con errores gramaticales o de formato, su jefe no estar&iacute;a contento en absoluto. A nivel educativo o profesional, el contenido estar&iacute;a libre de errores, independientemente de la forma en que se presente.</p>    <ul>  	<li>Cada presentaci&oacute;n de contenido tiene una l&iacute;nea de tiempo que debe cumplir el escritor. Si usted es un estudiante, la presentaci&oacute;n de la investigaci&oacute;n, el ensayo o incluso las tareas diarias tendr&iacute;an plazos. Debe dividir las tareas de escritura y edici&oacute;n de acuerdo con el tiempo disponible. Esta herramienta ayuda a ahorrar todo el tiempo que se hubiera dedicado a las tareas de edici&oacute;n. Como resultado, el env&iacute;o se puede hacer sin arriesgar plazos.</li>  	<li>Cuando habla de editar contenido, tener un error tiene el mismo impacto negativo que varios errores. Por lo tanto, un editor de texto solo debe usarse si lee el contenido correctamente e identifica todos los errores cometidos. Con esta herramienta, puede estar absolutamente seguro de que no se detectar&aacute;n errores. Verificar el contenido sin una herramienta a trav&eacute;s de la lectura no tiene el mismo nivel de eficiencia. Por lo tanto, para ahorrar tiempo y producir contenido sin errores, usar este editor de texto en l&iacute;nea gratuito es una de las mejores formas de salir. Esta herramienta es f&aacute;cil de usar e incluso si tiene conocimientos b&aacute;sicos sobre el uso de aplicaciones en l&iacute;nea, puede usarla f&aacute;cilmente.</li>  </ul>                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="rightcol">
+            <div class="sidebarR">
+
+
+
+<div class="col-xs-12 text-center clear noP pps-spr pps-spr-sidebar" id="sidebar_ad" style="margin:10px 0;height:600px;margin-bottom: 34px;">
+<span style="font-size:12px;color:#000">ANUNCIO PUBLICITARIO</span>
+<!-- Ezoic - sidebar_floating_1 - sidebar_floating_1 -->
+<div id="ezoic-pub-ad-placeholder-107">
+<div id="adngin-sidebar_top-0" style="height:600px;"></div>
+</div><!-- End Ezoic - sidebar_floating_1 - sidebar_floating_1 -->
+</div>
+
+<style>#carbonads{position:relative;display:flex;width:300px;height:250px;background-color:#fff;box-shadow:inset 0 0 1px 1px hsla(0,0%,0%,.15);text-align:center;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",Helvetica,Arial,sans-serif;justify-content:center;align-items:center}#carbonads a{color:#111;text-decoration:none}#carbonads a:hover{color:#111}#carbonads span{display:block;overflow:hidden}.carbon-img{display:block;margin:0 0 8px;line-height:1}.carbon-img img{max-width:150px!important;width:150px;height:auto}.carbon-text{display:block;margin-bottom:8px;padding:0 10px;font-weight:500;font-size:16px;line-height:1.35}.carbon-poweredby{position:absolute;right:10px;bottom:10px;display:block;padding:5px 6px;border-radius:2.5px;background-color:hsl(246,93%,69%);color:#fff!important;text-transform:uppercase;letter-spacing:.5px;font-weight:600;font-size:8px;line-height:1}</style>
+<div id="carbon-block"></div>
+
+
+
+
+<a class="colorLink" property="item" typeof="WebPage" href="https://www.prepostseo.com/">Home</a> ›
+<a class="colorLink" property="item" typeof="WebPage" href="https://www.prepostseo.com/tool/es/">Tools</a> ›
+editor de texto<hr style="margin:5px 0;">
+
+
+
+<div class="col-md-12 clear text-center text16 rbs otherlangBtns greybox" >
+<strong class="font700 d-block h4">&mdash; Idiomas  &mdash;</strong>
+
+<a href="/tool/online-text-editor" class="btn btn-default">English</a>
+<a href="/tool/es/online-text-editor" class="btn btn-default">Español</a>
+
+</div>
+
+
+
+</div>
+</div>
+<div class="rightcol sticky">
+<div class="col-xs-12 text-center pps-spr pps-spr-sidebar noP" id="sidebar_ad_big" style="margin-top:0px;min-height:250px">
+<span style="font-size:12px;color:#000">ANUNCIO PUBLICITARIO</span>
+<!-- Ezoic - sidebar - sidebar -->
+<div id="ezoic-pub-ad-placeholder-102">
+<div id="adngin-sidebar_1-0"></div>
+</div><!-- End Ezoic - sidebar - sidebar -->
+</div> 
+        </div>
+    </div>
+
+</div>
+</div>
+
+
+<!-- ./Main Site -->
+
+
+
+<div class="container-fluid normal-section">
+    <div class="container">
+            </div>
+</div>
+
+
+<!-- <script type="text/javascript" src="https://www.prepostseo.com/assets/pps-frontend/lib/tinymce/jquery.tinymce.min.js"></script>
+<script type="text/javascript" src="https://www.prepostseo.com/assets/pps-frontend/lib/tinymce/tinymce.min.js"></script>
+<script type="text/javascript" src="https://www.prepostseo.com/js/bottom-js-files/online-text-editor.js"></script> -->
+
+<script>
+    var jFiles = ['https://www.prepostseo.com/assets/pps-frontend/lib/tinymce/jquery.tinymce.min.js','https://www.prepostseo.com/assets/pps-frontend/lib/tinymce/tinymce.min.js','https://www.prepostseo.com/js/bottom-js-files/online-text-editor.js?v=4.3'];
+     var ttime = 500;     loadFiles(jFiles,ttime);
+    function loadFiles(links=[], time) {
+        setTimeout(() => {
+            if(Array.isArray(links)){ links.map(link => { $('body').append('<script src="'+link+'"></\script>'); })
+
+            }
+        }, time);
+    }
+</script>
+
+    <footer class="w100k text-white min-h100px footer-dark">
+    	<style>
+img[hidden]{display: none !important}
+.shadowBox #checkBtn,.shadowBox .btn.tool_btn_submit,.shadowBox .btn.btn-lg.btn-success,.shadowBox .btn.btn-lg.btn-success.active{
+margin-right: 10px;margin-top: 20px !important;
+margin-bottom: 20px!important;min-width: 260px !important;padding: 11px 20px !important;
+font-size: 20px !important;outline: none !important}
+.colorLink{color:#3175af}
+.linux-icon{margin-right:5px}
+.linux-icon img{background-color:#fff;border-radius:1px;padding:1px;margin:0 auto}
+/* PPs box BEGIN */
+.ppsbox-model{background:rgba(0,0,0,.4);display:none;height:100%;position:fixed;text-align:center;top:0;width:100%;z-index:10000}
+.ppsbox-model .helper-span{display:inline-block;height:100%;vertical-align:middle}
+.ppsbox-model > div{background-color:#fff;-webkit-box-shadow:10px 10px 60px #555;box-shadow:10px 10px 60px #555;display:inline-block;
+/* height: 330px; */height: auto;max-height: 100%;max-width: 360px;min-width: 300px;
+vertical-align:middle;width:50%;position:relative;border-radius:20px;padding:0 0 40px}
+.ppsbox-model > div:after{width:100%;content:"";height:40px;z-index:26;display:block;position:absolute;bottom:0;left:0;border-radius:0 0 20px 20px}
+.ppsbox-model > div.success:after{background-color:var(--ppsbox-success-color)}
+.ppsbox-model > div.danger:after{background-color:var(--ppsbox-danger-color)}
+.ppsbox-model > div.warning:after{background-color:var(--ppsbox-warning-color)}
+.ppsbox-model > div.info:after{background-color:var(--ppsbox-success-color)}
+.ppsbox-close{border:none;border-radius:50px;cursor:pointer;display:inline-block;font-family:arial;font-weight:700;position:absolute;top:12px;right:12px;font-size:25px;line-height:30px;width:30px;height:30px;text-align:center}
+.ppsbox-close.success{background-color:var(--ppsbox-success-color)}
+.ppsbox-close.info{background-color:var(--ppsbox-success-color)}
+.ppsbox-close.danger{background-color:var(--ppsbox-danger-color)}
+.ppsbox-close.warning{background-color:var(--ppsbox-warning-color);background-size:contain}
+.ppsbox-trigger{cursor:pointer;font-size:20px;margin:20px;display:inline-block;font-weight:700}
+.ppsbox-img{width:120px;height:120px;margin:0 auto;background-size:contain !important}
+.ppsbox-img.success{background:url(https://www.prepostseo.com/imgs/msg-box-success.png)}
+.ppsbox-img.danger{background:url(https://www.prepostseo.com/imgs/msg-box-danger.png)}
+.ppsbox-img.warning{background:url(https://www.prepostseo.com/imgs/msg-box-warning.png)}
+.ppsbox-img.info{background:url(https://www.prepostseo.com/imgs/msg-box-info.png)}
+.ppsbox-heading{font-size:25px;color:#000000;text-transform:capitalize;font-weight: 500}
+.ppsbox-msg{font-size:15px;color:#000000BF; padding: 40px 15px 15px;min-height: 60px;}
+.success .ppsbox-msg {background-color: #fbfffb }
+.danger .ppsbox-msg {background-color: #fffbfb }
+.warning .ppsbox-msg {background-color: #fffffb }
+.info .ppsbox-msg {background-color: #fbfeff }
+
+.help-us{bottom:5px;position:absolute;z-index:28;color:#fff;left:50%;-webkit-transform:translate(-50%,-5px);-ms-transform:translate(-50%,-5px);transform:translate(-50%,-5px);width:100%;font-size:15px}
+.help-us a{font-weight:700;color:#fff}
+/* PPs box END */
+.buyBtn,.rgsBtn{width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;background:#ccc;border-radius:32px!important;opacity:1;min-width:120px !important;height:40px;line-height:2;text-align:center;border:1px solid #888;color:#838383;margin:10px auto; display:block}
+.rgsBtn:active,.rgsBtn:focus,.buyBtn:active,.buyBtn:focus {outline:none !important;box-shadow:none!important;color:#fff}
+.phrsing-pro{border-radius:5px !important;border: none !important}
+.buyBtn-pro{background: #0000 linear-gradient(252deg, #3ACD99 0%, #0796B6 100%)!important;color: #fff;width: fit-content !important}
+.captcha-pro{background: #0000 linear-gradient(91deg, #ff3535 0%, #c6a4a4 100%)!important}
+.os-icon{padding:3px 8px;text-indent:0!important;margin:0}
+.os-icon:hover > img{background: #3acd99}
+#improveTool{background: #277c55 !important}
+.search-results .selected.match a{background: #e7f0f4;color: #000}
+.leftcol .tool-content a{word-break: break-word;}
+</style>
+<div class="ppsbox-model text-center">
+    <span class="helper-span"></span>
+	<div id="ppsbox">
+		<div class="ppsbox-img success"></div>
+		<div class="ppsbox-close success">&times;</div>
+		<span class="ppsbox-heading">Success</span>
+		<div class="ppsbox-msg">lorem ipsum dolor sit amet, consect</div>
+		<div class="help-us">Si necesita ayuda, por favor <a href="https://www.prepostseo.com/contact" class="dark-a" target="_blank"><u>Contáctenos</u></a></div>
+	</div>
+</div>
+
+<div class="container">   
+    <div class="col-sm-12 px-10x">
+    	<div class="col-sm-4 noP" style="padding-right:20px;">
+        	<img data-src="https://www.prepostseo.com/imgs/pps-logo-white.png" class="lazy" width="107" height="30" alt="prepostseo" >
+            <hr>
+			<p>A product of Enzipe.</p>
+            <p>Al desarrollar más de 75 herramientas en línea para estudiantes, escritores y expertos en SEO, PREPOSTSEO es uno de los mejores sitios web de herramientas gratuitas.</p>
+            <p>2023 &copy; PrePost SEO</p>
+            <img data-src="https://www.prepostseo.com/imgs/ssl-badge-120x37.png" class="lazy" width="120" height="37"  alt="Prepostseo SSL" /> 
+        	 
+        </div>
+         
+        <div class="col-sm-5 noP" style="padding-right:20px;">
+        	<p class="fh d-block font700 px-10x">Servicios Prepostseo</p> 
+			<hr class="mx-10x" /> 
+			<a class="text-white d-inline-block w100k" href="/blog/">Prepostseo Blog</a>
+			<a class="text-white d-inline-block w100k" href="/plagiarism-checker-api">API de plagio</a>
+			<a class="text-white d-inline-block w100k" href="https://wordpress.org/plugins/prepost-seo/" target="_blank" rel="nofollow noreferrer">Complemento de Wordpress</a>
+			<a class="text-white d-inline-block w100k" href="/seo-tools-widgets">Widgets de herramientas de SEO</a>
+			<a class="text-white d-inline-block w100k" href="https://www.prepostseo.com/tool/">Más herramientas</a>
+            <hr class="mx-10x" />
+            <a href="https://www.facebook.com/prepostseo/" rel="noopener" aria-label="facebook" target="_blank" class="border-dark fbtn w-auto-i text-white d-inline-block"><i class="fa fa-facebook"></i></a>
+            <a href="https://twitter.com/prepostseo" rel="noopener" aria-label="twitter" target="_blank" class="border-dark fbtn w-auto-i text-white d-inline-block"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.linkedin.com/company/prepostseo/" rel="noopener" aria-label="linkedin" target="_blank" class="border-dark fbtn w-auto-i text-white d-inline-block"><i class="fa fa-linkedin"></i></a>
+            <a href="https://play.google.com/store/apps/dev?id=6353011113157197352" rel="noopener" aria-label="android" target="_blank" class="border-dark fbtn w-auto-i text-white d-inline-block"><i class="fa fa-android"></i></a>
+            <a href="https://apps.apple.com/us/app/plagiarism-checker-prepostseo/id1463941368" rel="noopener" aria-label="apple" target="_blank" class="border-dark fbtn w-auto-i text-white d-inline-block"><i class="fa fa-apple"></i></a>
+			<a href="https://apps.microsoft.com/store/detail/plagiarism-checker/9PM6Q4KGJM8P?hl=en-pk&gl=PK" rel="noopener" aria-label="window" target="_blank" class="border-dark fbtn w-auto-i text-white d-inline-block"><i class="fa fa-windows" aria-hidden="true"></i></a>
+			<a href="https://snapcraft.io/plagiarismchecker" rel="noopener" aria-label="linux" target="_blank" class="border-dark fbtn w-auto-i text-white d-inline-block os-icon linux-icon">
+				<img src="https://www.prepostseo.com/imgs/linux_icon.svg" width="15" height="17" alt="linux app">
+			</a>
+			<a href="https://apps.apple.com/us/app/plagiarism-checker-prepostseo/id1463941368" rel="noopener" aria-label="apple" target="_blank" class="border-dark fbtn w-auto-i text-white d-inline-block os-icon">
+				<img src="https://www.prepostseo.com/imgs/app-store-ios-brands.svg" width="15" height="17" alt="google play store">
+			</a>
+        </div>
+        <div class="col-sm-3 noP" style="padding-right:20px; padding-bottom:80px">
+        	
+        	<p class="fh d-block font700 px-10x">Recursos</p> 
+			<hr class="mx-10x" /> 
+			<a class="text-white d-inline-block w100k" href="/about">Sobre nosotros</a>
+			<a class="text-white d-inline-block w100k" href="/contact">Contáctenos</a>
+			<a class="text-white d-inline-block w100k" href="/advertise">Anunciar</a>
+			<a class="text-white d-inline-block w100k" href="/affiliate">Affiliate</a>
+			<a class="text-white d-inline-block w100k" href="/faqs">preguntas frecuentes</a>
+			<a class="text-white d-inline-block w100k" href="/privacy-policy">Política de privacidad</a>
+			<a class="text-white d-inline-block w100k" href="/refund-policy">Politica de reembolso</a>
+			<a class="text-white d-inline-block w100k" href="/terms-of-use">Términos de Uso</a>
+        </div>      
+            </div>
+</div>
+
+
+<style>
+body.dark_mode_ui input::-moz-placeholder,
+body.dark_mode_ui input:-ms-input-placeholder,
+body.dark_mode_ui input::-webkit-input-placeholder{color:#ccc}
+/* body.dark_mode_ui span{background: transparent !important;} */
+body.dark_mode_ui{background:#333!important;color:#fff!important}
+body.dark_mode_ui :is( div:not(.pps-spr-lumba-daba, .pps-spr-lumba-daba div,.ppsbox-model *, .gigaparts-sale-banner, .border-dark-none), 
+span:not(.ars, .line,.btn,.go-pro,.bx-export, .slash,.info-tooltip, .skeleton-box, .dark-trans),a:not(.dark-a), .tln ul li a, small,
+div:before, textarea, footer:not(.footer-dark), input, select, form) {background:#333!important;color:#fff!important;border-color:#aaa!important;box-shadow:none!important}
+body.dark_mode_ui header{box-shadow:none;border-bottom:1px solid #dbdbdb}
+body.dark_mode_ui .btn.btn-ad-share,body.dark_mode_ui .loadfeedbackwrapper{background:#fff!important;color:#333!important;border-color:#aaa!important}
+body.dark_mode_ui #feedback{border:0;background:#333!important;line-height:normal}
+body.dark_mode_ui .btn:not(#feedback,.btn-dark,#uploadBtn) .fa{color:#333 !important}
+body.dark_mode_ui :is(.fa, h1, h2, h3, h4, h5, label){color:#fff}
+body.dark_mode_ui .shareit img{filter:grayscale(1) invert(1)!important}
+body.dark_mode_ui .hh{background:linear-gradient(90deg,#666,#333)!important}
+body.dark_mode_ui .leftcol,body.dark_mode_ui .toc_container{border:1px solid #333!important}
+body.dark_mode_ui .model-box{border: 1px solid #eee}
+body.dark_mode_ui .slash{background: transparent !important;}
+/* body.dark_mode_ui a{background: none !important;color:#fff} */
+body.dark_mode_ui .table>tbody>tr{background: none !important;}
+body.dark_mode_ui .pps-spr,body.dark_mode_ui .pps-spr.pps-spr-sidebar,
+body.dark_mode_ui :is(.pps-spr span,.card-dark, .plan-box.card-dark, .bg-dark-mode, .ppsbox-model > div, .ppsbox-msg, .ppsbox-heading, .a-dark){background: #4e4e4e !important}
+body.dark_mode_ui :is(.border-dark, #capDiv, .card-dark, .plan-box.card-dark .rtbg , .greybox , .rBtns){border:1px solid #aaa!important}
+body.dark_mode_ui .border-dark-none{border-color: #0000!important}
+body.dark_mode_ui .banner-feature i.fa-circle{color:#6d6d6d !important}
+body.dark_mode_ui .toolheadng::before,
+body.dark_mode_ui :is(.shine-box.premium-plns-btn,  .btn.btn-default, .InputAddOn button, #improveTool, .btn.btn-success, .go-pro, .popover_btn){background:#6d6d6d!important;color: #fff} 
+body.dark_mode_ui p, body.dark_mode_ui .ppsbox-msg,
+body.dark_mode_ui .price:before, body.dark_mode_ui .price:after {color: #fff !important;}
+body.dark_mode_ui > div > footer > div.container,
+body.dark_mode_ui > div > footer > div.container > div > div.noP > a,
+body.dark_mode_ui > div > footer > div.container > div,
+body.dark_mode_ui > div > footer > div.container > div > div.noP,
+body.dark_mode_ui footer.footer-dark{border:0;background: #4e4e4e !important;}
+body.dark_mode_ui .dark-img{filter: grayscale(.5)}
+body.dark_mode_ui .popup li:hover{background-color:#6d6d6d !important}
+body.dark_mode_ui .sActv, body.dark_mode_ui span.ars:hover{background-color:#6d6d6d !important}
+body.dark_mode_ui  .tooltip_main>.line{background-image: -o-linear-gradient(90deg,rgb(109 109 109), 0,#333 40px,rgb(109 109 109) 80px);background-image: linear-gradient(90deg,rgb(109 109 109), 0,#333 40px,rgb(109 109 109) 80px)}
+body.dark_mode_ui .langSelectBox ul li:hover, body.dark_mode_ui select.langAbs option:hover{background: #6d6d6d}
+body.dark_mode_ui .leftcol .tool-content a{color: #337ab7 !important}
+body.dark_mode_ui :is(.leftcol .tool-content a,.acc_content a){color: #337ab7 !important}
+body.dark_mode_ui .skeleton-box{background-color: #6d6d6d !important}
+body.dark_mode_ui .close span{background: transparent !important;color: #000 !important}
+body.dark_mode_ui .ppsbox-model > div{box-shadow:none}
+.account-nav li{display:inline-block}
+.rounded{border-radius:5px}
+</style>
+
+<script>
+
+function loadOnImage(_this) {
+	console.log($(_this).attr('data-src').startsWith('https://enzipefiles.live'))
+	if($(_this).attr('data-src').startsWith('https://enzipefiles.live')){
+		$(_this).remove();
+	}
+}
+
+function loadFallbackImage(_this) {
+    _this.src = 'https://www.prepostseo.com/imgs/blog/blog-default.png';
+}
+
+$.cachedScript=function(e,c){return c=$.extend(c||{},{dataType:"script",cache:!0,url:e}),$.ajax(c)};
+
+// Set a Cookie
+function setCookie(name, value, days) {
+  let expires = "";
+  if (days) {
+    const date = new Date();
+    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+    expires = "; expires=" + date.toUTCString();
+  }
+  document.cookie = name + "=" + (value || "") + expires + "; path=/";
+}
+const getCookie = (name) => {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+}
+/** DARK MODE */
+function toggleDarkMode(el){
+	var darkIcon = '<i class="fa fa-moon-o"></i>';
+	var lightIcon = '<i class="fa fa-sun-o" style="color:yellow"></i>';
+	var elval = darkIcon;
+	// var mode = getCookie('pps_dark_mode') ?? '1';
+	if($('body').hasClass('dark_mode_ui')){
+		setCookie('pps_dark_mode', '0', 365);
+		$(el).html(darkIcon);
+		// console.log('off', mode)
+	}else{
+		setCookie('pps_dark_mode', '1', 365);
+		$(el).html(lightIcon);
+		// console.log('on', mode)
+	}
+	$('body').toggleClass('dark_mode_ui');
+	$('#main-logo').attr('src', $('body').hasClass('dark_mode_ui') ? base_url+'imgs/pps-logo-white.png' : base_url+'imgs/prepostseo.png?v=1');
+}
+
+
+var fontawesomeLink = '';
+</script>
+<script>fontawesomeLink = '<script src="https://use.fontawesome.com/43844833b2.js"></\script>'; </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script src="https://www.prepostseo.com/assets/lib/js/functions.min.js?v=26.0.14"></script>
+
+<script>
+setTimeout(() => { 
+	$('body').append(fontawesomeLink+'<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet"><link rel="dns-prefetch" href="https://fonts.gstatic.com"><script async src="https://www.googletagmanager.com/gtag/js?id=UA-67516616-1" type="text/javascript"></\script>');
+	window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-67516616-1');
+}, 4000); 
+</script>
+
+			<script async src="https://cdn.snigelweb.com/adengine/prepostseo.com/loader.js" type="text/javascript"></script>
+			
+
+
+
+<script>
+function loadAdBlocker_pps(){
+		var adcheckCode = `<script>
+		fetch('https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7155931151667823')
+		.catch(() => adblockDetected());
+		fetch('https://www.prepostseo.com/ad.js')
+		.catch(() => adblockDetected());
+		function adblockDetected() {
+			$('body .text-sec .btn-success').unbind( "click" ).attr("onclick","showDabay2();return false;").attr("id","newone");
+			adblocker = 1;
+			if(document.getElementById("carbon-block")){
+				var carbonScript = document.createElement("script");
+				carbonScript.src = "//cdn.carbonads.com/carbon.js?serve=CE7DC53I&placement=wwwprepostseocom";
+				carbonScript.id = "_carbonads_js";
+				document.getElementById("carbon-block").appendChild(carbonScript);
+			}
+		}
+		function showDabay2(){
+				$.ajax({
+					url : "https://www.prepostseo.com/frontend/adblockerView",
+					data : {'url':"https://www.prepostseo.com/tool/es/online-text-editor",'lang':"es"},
+					success: function(resp){
+						var MsgB = resp;
+						if(typeof tool_title !== 'undefined'){
+							$(".bg-dark").html(MsgB).show();
+						}
+						$(".bg-dark").on('click', '.gotit', function(){$(".bg-dark").hide();});
+						return false;
+					}
+				});
+			}
+	</\script>`;
+	$('footer').append(adcheckCode);
+	}
+$(function(){ loadAdBlocker_pps() });
+
+</script>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-67516616-1', 'auto');ga('send', 'pageview');</script>
+
+
+
+
+<script type="application/javascript">
+function showAllTools(){$(".showAllBox").toggleClass("showAllBoxShow");}	
+async function checkUserExists(email) {
+    return await $.post( base_url+'checkEmail',{email:email}, data => data,"json");
+}
+function alertBox(type='success', title='Success', msg = 'Processing done'){
+	$('#ppsbox, .ppsbox-close, .ppsbox-img').removeClass('success warning danger info').addClass(type);
+	if(!title){
+		type = type == 'danger' ? 'Error' : type;
+		$('.ppsbox-heading').html(type);
+	}else{
+		$('.ppsbox-heading').html(title);
+	}
+	$('.ppsbox-msg').html(msg);
+	$('.ppsbox-model').show();
+}
+
+function closePpsBox(){
+	$(document).mouseup(function (e) {
+		var container = $("#ppsbox");
+		if (( !container.is(e.target) && container.has(e.target).length === 0 ) || e.target.classList.value.indexOf('ppsbox-close') != -1) {
+			$('.ppsbox-model').hide();
+		}
+	});
+}
+function getPremiumSignup(link, excludeSignup = false, cls = '', label = 'Buy Premium') {
+	link = base_url+link;
+	var proSymbol = '<svg xmlns="http://www.w3.org/2000/svg" width="17.822" height="13.747" viewBox="0 0 17.822 13.747"><path d="M1.088,9.835c-.106-.682-.209-1.341-.31-2C.523,6.178.271,4.521.013,2.865A.611.611,0,0,1,.268,2.2a.6.6,0,0,1,.723.065Q2.6,3.466,4.2,4.67a.832.832,0,0,0,1.35-.228Q6.9,2.419,8.247.4A.748.748,0,0,1,9.409.2a1.4,1.4,0,0,1,.206.261q1.325,1.983,2.647,3.968a.838.838,0,0,0,1.376.229c1.054-.791,2.106-1.585,3.166-2.369a.869.869,0,0,1,.435-.171.574.574,0,0,1,.574.713q-.236,1.522-.47,3.044c-.192,1.247-.389,2.493-.572,3.741-.027.181-.09.225-.267.225q-5.989-.008-11.979,0H1.088Z" transform="translate(0 0)" fill="#fd0"/><path d="M37.486,224.736c0,.638.022,1.263-.008,1.885a.773.773,0,0,1-.778.707c-.056,0-.111,0-.167,0H22.811a.845.845,0,0,1-.964-.968q0-.789,0-1.578a.184.184,0,0,1,.018-.046Z" transform="translate(-20.763 -213.582)" fill="#fd0"/></svg>&nbsp;';
+	return '<a href="'+link+'" target="_blank" class="btn buyBtn shine-box shine-box-before-avtive '+cls+'" >'+proSymbol+label+'</a>'+ (excludeSignup ? '' : '&nbsp;<a href="'+base_url+'register" target="_blank" class="btn rgsBtn" >Sign Up</a>');
+}
+docReady(function(){
+
+		
+		setTimeout(() => {
+			$('.shine-box').addClass('shine-box-before-avtive');
+		}, 5000);
+			
+	$(".ppsbox-trigger").click(function(){
+		alertBox('danger', '', 'Somthing went wrong')
+	});
+	$('.ppsbox-model,.ppsbox-close').click(function(){
+		closePpsBox();
+	}); 
+	closePpsBox();
+ 
+			if($('.toc_title:eq(0)').length>0){
+			$('.toc_title:eq(0)').text("Tabla de contenido")
+		}
+			
+	const content_tbls = $('.tool-content table');
+	if(content_tbls.length > 0) {
+		if(!content_tbls.parent().hasClass('table-responsive')){
+			content_tbls.attr('style','');
+			content_tbls.attr('class','table table-bordered table-striped');
+			content_tbls.wrap('<div class="table-responsive">');
+		}
+	}
+
+	
+			var uperSelectBox = $('.uperSelectBox'); 
+		var langGlob = $('.langGlob');
+		langGlob.on('click', function(){
+			uperSelectBox.slideToggle('slow');
+		});
+		$('html').click(function(e) {
+			if (e.target.id != 'lang'){
+				if($("#lang").is(":visible") && !e.target.classList.contains('langGlob')){
+					uperSelectBox.slideToggle('slow');
+				}
+			}
+		});
+		
+	
+	/* //scrollinview on hover
+	var uperSelectBox = $('.uperSelectBox') var optionHeight = uperSelectBox.attr('data-o-height'); console.log("optionHeight", optionHeight)
+	uperSelectBox.on('mousedown ', function(){ _topClient = $(this).get(0).getBoundingClientRect().y; // console.log('uperSelectBox', _topClient)
+	if(_topClient > optionHeight){ console.log("up") // $(this).get(0).scrollIntoView(275)$('html, body').animate({scrollTop: $("#usBoxTop").offset().top -20}, 200); }
+	});*/
+
+		var shareItHtml = '<div class="shareit" style="padding-top: 30px; clear: both;"><img width="150" height="30" alt="shareitt" src="https://www.prepostseo.com/imgs/shareitt.png?v=3.0"/><a class="btn btn-primary btn-ad-share" aria-label="facebook" rel="noopener" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.prepostseo.com/tool/es/online-text-editor"><i class="fa fa-facebook"></i></a><a class="btn btn-primary btn-twitter btn-ad-share" aria-label="twitter" rel="noopener" target="_blank" href="https://twitter.com/share?url=https://www.prepostseo.com/tool/es/online-text-editor"><i class="fa fa-twitter"></i></a><a class="btn btn-primary btn-ad-share" aria-label="share" rel="noopener" target="_blank" href="https://www.linkedin.com/cws/share?url=https://www.prepostseo.com/tool/es/online-text-editor"><i class="fa fa-linkedin"></i></a></div>';
+	$('.shadowBox').first().append(shareItHtml);
+		$("#h_top_search #inputSN").on("keyup" , function(e){
+		var eKey = e.which;
+ 		if(eKey != 38 && eKey != 39 && eKey != 37 && eKey != 40 && eKey != 13){
+			var search = $(this).val().replace(/[^\w\s\-|_^.,]/gi, '');
+			$(this).val(search);
+			var langSearch = "es";
+			if(search.length < 2) return false;
+			search_bar(search,langSearch,"#h_top_search");
+		}
+	});
+	});
+</script>
+<!-- search imove  -->
+<script>
+var dimensionY = 4;
+var dimensionX = 2;
+const searchContainer = document.querySelector('.search-results')
+var selectedCell = "cell-0-0";
+$('#inputSN, #searchInput-banner').keydown(function(event) {
+    // console.log(event.target.id == 'inputSN');
+    var SearchActive = $('.sbNew').hasClass('showB');
+    if(SearchActive){
+        dimensionY = ($('.search-row').length) || dimensionY;
+                $(".match.selected").removeClass("selected");
+        var currentX = parseInt(selectedCell.split("-")[1]);
+        var currentY = parseInt(selectedCell.split("-")[2]);
+        var c_href = '';
+         switch (event.which) {
+          case 37:
+            selectedCell = "cell-" + (currentX == 0 ? dimensionX - 1 : currentX - 1) + "-" + currentY;
+            break;
+          case 38: // up
+            selectedCell = "cell-" + currentX + "-" + (currentY == 0 ? dimensionY - 1 : currentY - 1);
+                            if(currentY == 3)searchContainer.scrollTop = 0;
+                        break;
+          case 39:
+            selectedCell = "cell-" + ((currentX + 1) % dimensionX) + "-" + currentY;
+            break;
+          case 40: // console.log('down')
+            selectedCell = "cell-" + currentX + "-" + ((currentY + 1) % dimensionY);
+            if(currentY == 3)  searchContainer.scrollTop = 200 ;
+            else if(currentY == 7) searchContainer.scrollTop = 400;
+            break;
+        case 13:
+            c_href = $("#" + selectedCell+">a").attr('href');
+            if(c_href) window.location.href = c_href;
+            break;
+        }
+        $("#" + selectedCell).addClass("selected");
+        if(currentY == (dimensionY - 1) || $("#" + selectedCell).length == 0){
+            searchContainer.scrollTop = 0; 
+        }
+    }
+});
+
+</script>
+
+
+
+
+
+
+
+<!-- GOOGLE PUSH NOTIFICATIONS -->
+<script>
+$(function() {
+setTimeout(() => { 
+ 	$.cachedScript('https://www.gstatic.com/firebasejs/7.16.1/firebase-app.js').done(function (script, textStatus) {
+		console.log('firebase load', textStatus);
+	});
+	$.cachedScript('https://www.gstatic.com/firebasejs/7.16.1/firebase-messaging.js').done(function (script, textStatus) {
+		console.log('firebase messaging load', textStatus);
+		var mycl_url = "";function getCookie(e) { return document.cookie && -1 != document.cookie.indexOf(e) ? decodeURIComponent(document.cookie.split("; ").find(o => o.startsWith(e + "=")).split("=")[1]) : "" }const firebaseConfig = { messagingSenderId: "71929956929", apiKey: "AIzaSyAtTlBIwAjgbUT4JfFkhLastfVNg4M4ySw", projectId: "prepostnotif", appId: "1:71929956929:web:e1285e730ec72f0664d4c0" };firebase.initializeApp(firebaseConfig);const messaging = firebase.messaging();messaging.requestPermission().then(function () { return console.log("Notification permission granted."), messaging.getToken() }).then(function (e) { console.log(e); var o = getCookie("push_token"); console.log("yeh " + o), "" != o && "notfound" != o ? o != e && saveTokn(e, "updated") : saveTokn(e, "saved") }).catch(function (e) { console.log("Unable to get permission to notify.", e) });let enableForegroundNotification = !0;var current_base_url = "https://www.prepostseo.com/tool/es/online-text-editor";function saveTokn(e, o) { var n = { submit: !0, token: e, state: o, reg_page: current_base_url };$.post(base_url + "frontend/savePushToken", n).done(e => console.log("token", o)) } messaging.onMessage(function (e) { console.log("Message received. ", e);var o = JSON.parse(e.data.notification);if (mycl_url = o.click_action, enableForegroundNotification) { const { title: o, ...n } = JSON.parse(e.data.notification);navigator.serviceWorker.getRegistrations().then(e => { e[0].showNotification(o, n) }) } });
+	});
+}, 10000); 
+});
+</script>
+
+
+<!--Start of Tawk.to Script-->
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+setTimeout(() => { 
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5f8558d34704467e89f6ed33/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+}, 5000);
+</script>
+<!--End of Tawk.to Script--> 
+<script type="text/javascript">
+    var Tawk_API = Tawk_API || {};
+ 	window.Tawk_API.onLoad = function(){
+		window.Tawk_API.hideWidget();
+	};
+	Tawk_API.customStyle={visibility:{desktop:{position:"br",xOffset:"0px",yOffset:120,visibility:"hidden"},mobile:{position:"br",xOffset:0,yOffset:80},bubble:{rotate:"0deg",xOffset:-20,yOffset:0}}};
+</script>
+<!--End of Tawk.to Script-->
+
+
+    </footer>
+    <div class="bg-dark d-block position-f w100 h100" style="display:none"></div>
+    	<div class="loadfeedbackwrapper border-dark" hidden><span onclick="gotofeedBack()" id="feedback"  class="btn border-0 btn-sm text-white" data-toggle="tooltip" data-placement="right" title="Send Us Feedback"><span class="hidden-xs">Feedback&nbsp;</span><i class="fa fa-comments"></i></span> </div>
+        <div id="loadFeedback"></div>
+    <div id="mainOverlay" class="cursor-p position-f w100k h100k d-none"><div class="lds-dual-ring" style="top: 46%;left: 48%;"><img src="https://www.prepostseo.com/imgs/pps.svg"/></div></div>
+</div>
+<script>
+    docReady(function(){
+		$(document).mouseup(function (e) {
+			var container = $(".capDiv");
+			if (( !container.is(e.target) && container.has(e.target).length === 0 ) || e.target.classList.value.indexOf('ppsbox-close') != -1) {
+				$('.captcha-model').hide();
+			}
+		});
+    });
+</script>
+<div id="floorad-wrapper"><span id="close-floorad-btn" onClick="this.parentElement.remove()">&#10006;</span>
+    <div id="sticky-ad-background"></div><div id="adngin-footer_sticky-0"></div>
+</div>
+
+</body>
+</html>
